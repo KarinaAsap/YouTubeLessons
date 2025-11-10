@@ -1,0 +1,7 @@
+C:\Users\INTAS-SDyakonov\source\repos\YouTubeLessons\Lesson3\bin\Debug\Lesson3.exe.config
+C:\Users\INTAS-SDyakonov\source\repos\YouTubeLessons\Lesson3\bin\Debug\Lesson3.exe
+C:\Users\INTAS-SDyakonov\source\repos\YouTubeLessons\Lesson3\bin\Debug\Lesson3.pdb
+C:\Users\INTAS-SDyakonov\source\repos\YouTubeLessons\Lesson3\obj\Debug\Lesson3.csproj.AssemblyReference.cache
+C:\Users\INTAS-SDyakonov\source\repos\YouTubeLessons\Lesson3\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
+C:\Users\INTAS-SDyakonov\source\repos\YouTubeLessons\Lesson3\obj\Debug\Lesson3.exe
+C:\Users\INTAS-SDyakonov\source\repos\YouTubeLessons\Lesson3\obj\Debug\Lesson3.pdb
